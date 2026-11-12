@@ -12,5 +12,6 @@ Rufus info:
 https://rufus.ie/en/#download
 
 Windows Media creation Tool info:
+https://www.microsoft.com/en-us/software-download/windows10
 
 
